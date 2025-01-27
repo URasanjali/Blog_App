@@ -15,7 +15,6 @@
     "moment": "^2.30.1",
     "react": "^18.2.0",
     "react-device-frames": "^1.0.0",
-    "react-device-preview": "^1.0.6",
     "react-dom": "^18.2.0",
     "react-quill": "^2.0.0",
     "react-router-dom": "^6.26.0"
